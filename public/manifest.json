@@ -1,0 +1,32 @@
+{
+    "theme_color": "#69abce",
+    "background_color": "#69abce",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "\ub0b4\uc9d1\ub9c8\ub828\ud558\uc790!",
+    "short_name": "\ub0b4\uc9d1\ub9c8\ud558!",
+    "description": "\ubd80\ub3d9\uc0b0 \uc2dc\uc138\uc640 \ud568\uaed8 \ube44\uad50\ud558\uc5ec \uc9d1\uc744 \ub9c8\ub828\ud558\ub294\ub370 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc6f9 \ub610\ub294 \uc560\ud50c\ub9ac\ucf00\uc774\uc158",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
